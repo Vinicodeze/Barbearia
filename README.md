@@ -21,9 +21,9 @@ O objetivo é criar um site moderno e responsivo para uma barbearia, com foco em
 - Carrossel de imagens
 - Footer com informações da barbearia
 
-## 🚀 Objetivo
+##  Objetivo
 Este projeto faz parte do meu aprendizado em desenvolvimento web e serve como portfólio.
 
 ---
 
-Feito por Vinicius 💈
+Feito por Vinicius Paulino
