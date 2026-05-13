@@ -577,3 +577,35 @@ footer{
         padding: 3rem 2rem;
     }
 }
+
+@media screen and (max-width: 768px){
+
+    .conteudo h1{
+        font-size: 32px;
+    }
+
+    .conteudo p{
+        font-size: 16px;
+    }
+
+    .texto{
+        width: 100%;
+        padding: 0 15px;
+    }
+
+    .texto h2{
+        font-size: 28px;
+    }
+
+    .texto p{
+        font-size: 16px;
+    }
+
+    nav ul li a{
+        font-size: 16px;
+    }
+
+    .hero{
+        padding: 20px;
+    }
+}
