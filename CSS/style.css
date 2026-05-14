@@ -193,7 +193,6 @@ main{
     scroll-snap-type: x mandatory;
     scroll-behavior: smooth;
     padding: 20px 0;
-    /* Ajuste Safari: Scroll suave no iOS */
     -webkit-overflow-scrolling: touch;
 }
 
@@ -414,7 +413,6 @@ main{
     border-bottom: none;
 }
 
-/* Ajuste Desktop para o Horário */
 @media (min-width: 481px) {
     .horario dl {
         display: grid;
